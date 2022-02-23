@@ -1,0 +1,134 @@
+html{
+    background-color: #f1e0e0;
+}
+
+table{
+    margin: auto;
+}
+
+.table-first caption{
+    color: #4D1A75;
+    background-color: #debff3;
+    text-decoration: solid;
+}
+
+.table-first thead th{
+    font: Arial;
+    color: rgb(255, 250, 250);
+    background-color: #4D1A75;
+    padding: auto;
+
+}
+
+.table-first tbody td{
+    font: Helvetica;
+    color: #4D1A75;
+    background-color: #debff3;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 4%;
+    border-radius: 4px;
+}
+
+.table-second caption{
+    color: #ffffff;
+    background-color: #291e31;
+    text-decoration: solid;
+}
+
+
+.table-second thead th{
+    font: Verdana;
+    color: #ffffff;
+    background-color: #000000;
+    border-collapse: separate;
+    text-align: left;
+    padding: 3%;
+}
+
+.table-second tbody td{
+    font: Arial;
+    color: #f8f5fa;
+    background-color: #444040;
+    text-align: left;
+    padding: 2%;
+    border-radius: 4px;
+}
+
+.table-third caption{
+    color: #0c9a94;
+    background-color: #e1f0fc;
+    text-decoration: solid;
+}
+
+.table-third thead th{
+    font: Arial;
+    color: #0c9a94;
+    background-color: white;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: #0c9a94;
+    border-bottom-color: #0c9a94;
+    text-align: center;
+    padding: 1%;
+}
+
+.table-third tbody td{
+    font: Arial;
+    color: #1e7e8d;
+    background-color: #ffffff;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: #19d0ed;
+    border-bottom-color: #19d0ed;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 4%;
+}
+
+.table-fourth caption{
+    color: #9a0c42;
+    background-color: #acebab;
+    text-decoration: solid;
+}
+
+.table-fourth thead th{
+    font: Arial;
+    width: fit-content;
+    color: #000000;
+    background-color: #63a762;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: #06fa89;
+    border-bottom-color: #06fa89;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.table-fourth tbody td{
+    font: Arial;
+    color: #000000;
+    background-color: #83ed709e;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: #06fa89;
+    border-bottom-color: #06fa89;
+    border-collapse: collapse;
+    text-align: right;
+}
+
+.text-modified{
+    width: 20%;
+}
+
+.table-space{
+    width: 60%;
+}
