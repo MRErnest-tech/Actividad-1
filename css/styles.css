@@ -1,0 +1,116 @@
+html{
+    width: 612;
+    height: 792;
+    margin: auto;
+}
+
+.name-account {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-align: right;
+}
+
+.first-paragraph h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #278197;
+    text-align: center;
+}
+
+.first-paragraph p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    text-indent: 16px;
+}
+
+.head-title{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+.second-paragraph {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: justify;
+    margin-right: 45%;
+}
+
+.third-paragraph {
+    position: relative;
+    font-size: 14px;
+    margin-top: -24%;
+    margin-left: 57%;
+    text-align: justify;
+    border-top-width: thin;
+    border-bottom-width: thin;
+    border-right-width: thin;
+    border-left-width: thin;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-right-color: black;
+    border-left-color: black;
+    border-style: solid;
+}
+
+.fourth-paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 1%;
+    text-align: right;
+    color: rgba(0, 0, 0, 0.863);
+}
+
+.fifth-paragraph p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.863);
+}
+
+.fifth-paragraph li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 14px;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.863);
+}
+
+.color-t{
+    color: rgb(155, 103, 25);
+}
+
+.color-e{
+    color: yellow;
+}
+
+.color-x{
+    color: #230438;
+}
+
+.color-o{
+    color: blue;
+}
+
+.color-d{
+    color: yellowgreen;
+}
+
+.color-c{
+    color: red;
+}
+
+.color-l {
+    color: #d11ba0;
+}
+
+.color-r{
+    color: #a92dc9;
+}
+
+.color-s{
+    color: #09a9e4;
+}
