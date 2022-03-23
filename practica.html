@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>
+            Práctica
+        </title>
+        <link href="css/css/bootstrap.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+               <div class="col-md-3"></div>
+               <div class="col-md-6">
+                   <h1>Bienvenido Estudiante</h1>
+               </div>
+               <div class="col-md-3"></div>
+           </div>
+           <form>
+               <div class="row">
+                   <div class="col-md-3"></div>
+                    <div class="col-md-6">
+                       <label for="exampleInputEmail1">Usuario</label><br>
+                       <input type= "text" name="user" class="user" id="user" onchange="cambios();" placeholder="Usuario"><br>
+                       <label for="exampleInputPassword1">Password</label><br>
+                       <input type="password" class="form-control" id= "pass" name="pass" placeholder="Contraseña">
+                       <input type="button" class="btn btn-primary" onclick="setLogin();" value="Entrar">
+                   </div>
+                   <div class="col-md-3"></div>
+               </div>
+           </form>
+           </div>
+        <script type="application/javascript" src="js/practica.js"></script>
+    </body>
+</html>
